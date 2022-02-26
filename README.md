@@ -1,2 +1,3 @@
-# bot-altyap-
+# qewewqewq
+p-
 Türkçe Discord Botu Kullanabilirsiniz
